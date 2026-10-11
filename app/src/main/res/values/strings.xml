@@ -2,5 +2,10 @@
     <string name="app_name">first-project</string>
     <string name="splash_title">Bowling Training</string>
     <string name="splash_subtitle">Roll better every frame</string>
-    <string name="home_placeholder">Welcome! Training features coming soon.</string>
+    <string name="score_tracker_title">Score Tracker</string>
+    <string name="frame_status">Frame %1$d · Score %2$d</string>
+    <string name="final_score">Game over · Final score %1$d</string>
+    <string name="pins_prompt">Pins knocked down</string>
+    <string name="undo">Undo</string>
+    <string name="new_game">New game</string>
 </resources>
