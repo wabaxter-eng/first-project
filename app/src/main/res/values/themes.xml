@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.FirstProject" parent="android:Theme.Material.NoActionBar" />
+
+    <!-- System splash (Android 12+ SplashScreen API, backported via core-splashscreen) -->
+    <style name="Theme.FirstProject.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/lane_dark</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_bowling_ball</item>
+        <item name="postSplashScreenTheme">@style/Theme.FirstProject</item>
+    </style>
+</resources>
