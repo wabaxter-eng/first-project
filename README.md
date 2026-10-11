@@ -8,7 +8,7 @@ Android app shell for **Bowling Training**.
 - Home screen score tracker: tap the pins knocked down each roll; a 10-frame
   scorecard shows strikes, spares and running totals, with undo and new game
   (scoring logic in `scoring/BowlingScorer.kt`)
-- minSdk 26, targetSdk 35
+- minSdk 26, targetSdk 37
 
 ## Build
 
